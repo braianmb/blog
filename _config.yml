@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://braianmb.github.io/blog/"
+baseurl: "/blog/"
+url: "https://braianmb.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
